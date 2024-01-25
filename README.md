@@ -23,6 +23,10 @@
 Tkinter и statsmodels.
 
 
+
+
+
+
 The final qualifying work is set out on 78 pages, contains 39 pictures, 52 formulas, 4 tables,
 a list of references from 34 titles, and 2 appendixes.
 
