@@ -1,4 +1,3 @@
-**РЕФЕРАТ**
 Выпускная квалификационная работа выполнена на 78 страницах, содержит 39
 рисунков, 52 формул, 4 таблицы, список использованных источников из 34 наименований
 и 2 приложения.
@@ -18,7 +17,7 @@
 разработки PyCharm c использованием библиотек Matplotlib, NumPy, Pandas, Scikit-Learn,
 Tkinter и statsmodels.
 
-**ABSTRACT**
+
 The final qualifying work is set out on 78 pages, contains 39 pictures, 52 formulas, 4 tables,
 a list of references from 34 titles, and 2 appendixes.
 Key words: MACHINE LEARNING, TIME SERIES FORECASTING, CURRENCY
